@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class UnityAdsManager : MonoBehaviour, IUnityAdsInitializationListener, IUnityAdsLoadListener, IUnityAdsShowListener
 {
-    public string GAME_ID = "3003911"; //replace with your gameID from dashboard. note: will be different for each platform.
+    public string GAME_ID = "4979652"; //replace with your gameID from dashboard. note: will be different for each platform.
 
     private const string BANNER_PLACEMENT = "banner";
     private const string VIDEO_PLACEMENT = "video";
