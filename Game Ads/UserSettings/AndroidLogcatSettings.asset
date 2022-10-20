@@ -1,13 +1,56 @@
 {
-    "m_SelectedDeviceId": "",
+    "m_SelectedDeviceId": "LMV500Na98f98b9",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "LMV500Na98f98b9",
+        "name": "com.DefaultCompany.GameAds",
+        "processId": 6502,
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownPackagesForSerialization": [],
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.lge.launcher3",
+            "processId": 3114,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 26506,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 27627,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 28876,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 3184,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 4061,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 6502,
+            "exited": false
+        }
+    ],
     "m_Tags": {
         "m_Entries": [
             {
@@ -41,9 +84,20 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 0.0,
-        "MemoryWindowWidth": 0.0,
-        "MemoryTypeEnabled": [],
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "MemoryGroup": 2,
         "Behavior": 0
     },
