@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "LMV500Na98f98b9",
         "name": "com.DefaultCompany.GameAds",
-        "processId": 6502,
+        "processId": 8494,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -48,6 +48,18 @@
             "deviceId": "LMV500Na98f98b9",
             "name": "com.DefaultCompany.GameAds",
             "processId": 6502,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 7626,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV500Na98f98b9",
+            "name": "com.DefaultCompany.GameAds",
+            "processId": 8494,
             "exited": false
         }
     ],
